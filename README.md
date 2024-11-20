@@ -1,5 +1,8 @@
 # Marketing-Campaign-Performance-Dashboard-Powerbi-dashboard-Midlevel
 This repository contains a comprehensive Power BI dashboard created for analyzing the performance of marketing campaigns across various countries and languages. The dashboard provides insights into key metrics such as total leads, closed deals, lead quality, cost per lead, and cost per acquisition.
+
+![image](https://github.com/user-attachments/assets/1256e6ec-3c24-4c51-a7a3-aa60e579d1f1)
+
 This repository contains a comprehensive Power BI dashboard created for analyzing the performance of marketing campaigns across various countries and languages. The dashboard provides insights into key metrics such as total leads, closed deals, lead quality, cost per lead, and cost per acquisition.
 
 **Files in the Repository**
